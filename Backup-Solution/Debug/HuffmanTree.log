@@ -1,0 +1,20 @@
+﻿  HCTree.cpp
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(35,36): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(36,36): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.cpp(47,20): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.cpp(69,20): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.cpp(70,20): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\HuffmanTree\HCTree.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+  HuffmanTree.cpp
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(35,36): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(36,36): warning C4099: 'HCTree::New_Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\PC\source\repos\HuffmanTree\HCTree.h(15): message : see declaration of 'HCTree::New_Node'
+  Generating Code...
+  HuffmanTree.vcxproj -> C:\Users\PC\source\repos\HuffmanTree\Debug\HuffmanTree.exe
