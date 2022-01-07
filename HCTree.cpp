@@ -78,7 +78,7 @@ string HCTree::decode(string s)
         {
             curr = curr->right;
         }
-        if (curr->left == NULL and curr->right == NULL)
+        if (curr->left == NULL && curr->right == NULL)
         {
             ans += curr->data;
             curr = root;
